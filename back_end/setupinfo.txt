@@ -1,0 +1,31 @@
+TO SETUP
+
+have python and pip in environment variables
+
+go to this directory on your terminal
+--- TO ACTIVATE
+
+
+venv\Scripts\activate.bat 
+
+to activate
+
+
+---------------------
+
+pip install Flask
+pip install numpy
+pip install yfinance
+
+-----
+
+TO SETUP MAIN
+set FLASK_APP=app.py
+$env:FLASK_APP = "app.py"
+
+
+------------
+
+
+
+flask run
