@@ -1,4 +1,4 @@
-# Value_at_Risk - VaR Finder - calculate the VaR of your portfolio.
+VaR Finder - calculate the VaR of your portfolio.
 
 Created an application able to estimate volatilities using the simple volatility algorithm, EWMA and GARCH(1, 1). It is additionally able to price options, via binomial option pricing, Monte
 Carlo simulation and the Black Scholes Merton model. It can calculate the VaR of a portfolio containing stocks and options, using historical simulation, hybrid historical simulation, Monte Carlo simulation, multivariate Monte Carlo simulation, the linear model, and the linear model with co-variances. Furthermore, the application can back-test, stress-test and calculate the efficiency of a calculated VaR.
